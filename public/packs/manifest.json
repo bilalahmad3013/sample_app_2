@@ -1,0 +1,10 @@
+{
+  "application.js": "/packs/js/application-948f8ab3f8c71c56da3e.js",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-948f8ab3f8c71c56da3e.js"
+      ]
+    }
+  }
+}
